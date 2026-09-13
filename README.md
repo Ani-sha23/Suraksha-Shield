@@ -16,8 +16,7 @@ Many users may encounter suspicious digital content without knowing:
 
 - Whether something is potentially dangerous
 - Why it may be risky
-- What warning signs they should look for
-- What action they should take next
+- What warning signs they should look for and action they should take next
 
 **Suraksha Shield** addresses this gap through a browser-based risk-detection experience.
 
