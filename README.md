@@ -18,8 +18,6 @@ Many users may encounter suspicious digital content without knowing:
 
 **Suraksha Shield** addresses this gap through a browser-based risk-detection experience.
 
-The prototype is designed around three major digital public-safety threat categories and aims to provide users with an easy way to recognize potential risks before they become harmful.
-
 ---
 
 ## Problem Statement
