@@ -117,10 +117,4 @@ Explain:
 
 > Add the third threat category here.
 
-Explain:
-- What the threat is
-- Potential impact
-- Warning signs
-- How Suraksha Shield assists the user
-
 ---
