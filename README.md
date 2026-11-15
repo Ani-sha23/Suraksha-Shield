@@ -31,7 +31,6 @@ Traditional cybersecurity solutions can be:
 - Focused primarily on technical users or organizations
 - Less effective at explaining *why* something is suspicious
 
-There is a need for a simple layer of protection that can help everyday users make safer decisions while interacting with digital content.
 
 ### The challenge
 
