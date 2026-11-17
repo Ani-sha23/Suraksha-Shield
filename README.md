@@ -112,9 +112,3 @@ Explain:
 - How users can stay protected
 
 ---
-
-### 3. Threat Category Three
-
-> Add the third threat category here.
-
----
