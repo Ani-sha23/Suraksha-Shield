@@ -2,7 +2,7 @@
 
 Suraksha Shield is a lightweight browser-based risk-detection prototype designed to help citizens identify and understand emerging digital public-safety threats.
 
-The project focuses on making digital risk awareness **simple, accessible, and actionable**. Instead of requiring users to understand complex cybersecurity concepts, Suraksha Shield aims to present potential risks in a clear and user-friendly way.
+
 
 ---
 
