@@ -96,8 +96,6 @@ Suraksha Shield focuses on **three major digital public-safety threat categories
 Explain:
 - What the threat is
 - How citizens may encounter it
-- Common warning signs
-- How Suraksha Shield helps identify it
 
 ---
 
