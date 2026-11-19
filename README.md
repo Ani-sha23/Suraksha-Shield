@@ -106,7 +106,5 @@ Explain:
 Explain:
 - What the threat is
 - Why it matters
-- Common indicators
-- How users can stay protected
-
+- 
 ---
