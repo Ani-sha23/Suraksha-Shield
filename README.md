@@ -24,13 +24,6 @@ Many users may encounter suspicious digital content without knowing:
 
 Digital threats are becoming increasingly sophisticated, while public awareness often remains limited.
 
-Traditional cybersecurity solutions can be:
-
-- Difficult for non-technical users
-- Complex to understand
-- Focused primarily on technical users or organizations
-- Less effective at explaining *why* something is suspicious
-
 
 ### The challenge
 
