@@ -42,8 +42,6 @@ The core philosophy is:
 ### Detect
 Identify potential indicators of digital risk.
 
-### Explain
-Clearly communicate why something may be suspicious or unsafe.
 
 ### Protect
 Help users make more informed decisions before interacting with potentially harmful content.
