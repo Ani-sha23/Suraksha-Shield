@@ -218,12 +218,6 @@ If you would like to improve Suraksha Shield:
 
 ---
 
-## License
-
-This project is currently an exploratory prototype. Licensing details can be added as the project evolves.
-
----
-
 **Suraksha Shield — Detect. Protect. Educate.**
 
 *Building a safer digital India, one informed citizen at a time.*
