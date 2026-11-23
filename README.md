@@ -205,19 +205,6 @@ Potential future improvements include:
 
 ---
 
-## Contributing
-
-Contributions, suggestions, and feedback are welcome.
-
-If you would like to improve Suraksha Shield:
-
-1. Fork the repository.
-2. Create a new feature branch.
-3. Make your changes.
-4. Submit a pull request.
-
----
-
 **Suraksha Shield — Detect. Protect. Educate.**
 
 *Building a safer digital India, one informed citizen at a time.*
