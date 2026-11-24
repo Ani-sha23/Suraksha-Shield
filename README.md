@@ -198,11 +198,6 @@ Potential future improvements include:
 - Real-time suspicious URL analysis.
 - Browser extension integration.
 - Multilingual support for Indian languages.
-- Improved phishing and scam detection.
-- Threat intelligence integration.
-- Advanced risk scoring and reporting.
-- User awareness and educational resources.
-
 ---
 
 **Suraksha Shield — Detect. Protect. Educate.**
