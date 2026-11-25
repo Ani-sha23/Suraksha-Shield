@@ -196,8 +196,6 @@ Potential future improvements include:
 
 - AI-powered threat detection.
 - Real-time suspicious URL analysis.
-- Browser extension integration.
-- Multilingual support for Indian languages.
 ---
 
 **Suraksha Shield — Detect. Protect. Educate.**
