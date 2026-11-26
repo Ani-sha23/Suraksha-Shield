@@ -190,14 +190,6 @@ Suraksha Shield is an experimental risk-awareness prototype. Its assessments are
 
 ---
 
-## Future Scope
-
-Potential future improvements include:
-
-- AI-powered threat detection.
-- Real-time suspicious URL analysis.
----
-
 **Suraksha Shield — Detect. Protect. Educate.**
 
 *Building a safer digital India, one informed citizen at a time.*
