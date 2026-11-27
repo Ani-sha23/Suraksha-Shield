@@ -184,12 +184,6 @@ Suraksha Shield is an exploratory browser-based project focused on demonstrating
 
 ---
 
-## Disclaimer
-
-Suraksha Shield is an experimental risk-awareness prototype. Its assessments are indicative and should not be considered a guarantee that content is safe or malicious. Users should independently verify suspicious websites, messages, and transactions before taking action.
-
----
-
 **Suraksha Shield — Detect. Protect. Educate.**
 
 *Building a safer digital India, one informed citizen at a time.*
